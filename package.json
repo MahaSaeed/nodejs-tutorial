@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "bootstrap": "^5.2.0",
+    "lodash": "^4.17.21",
+    "path": "^0.12.7",
+    "stream": "^0.0.2"
+  },
+  "name": "tutorial",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "maha",
+  "license": "ISC",
+  "description": ""
+}
